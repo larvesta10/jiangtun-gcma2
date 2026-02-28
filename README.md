@@ -22,6 +22,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 | Jiangtun-gcma2-v2.0.0-alpha-dol-pico.uf2 | O | X | O | O |
 | Jiangtun-gcma2-v2.0.0-alpha-pico.uf2 | O | O | O | X |
+
 (もしかしたら間違ってるかも…過去バージョンのため正確な情報が見つけられず)
 
 
