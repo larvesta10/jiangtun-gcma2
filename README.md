@@ -1,3 +1,31 @@
+# Jiangtun-gcma2
+
+- GC自動化ツール『gcma2.0』用にJiangtun v2.0.0 alphaのピンアサインを変更したFW
+- 最新版ではなく過去バージョンのJiangtun v2.0.0 alphaであることに注意
+
+## 背景
+
+- Jiangtun v2.0.1にて意図しない挙動があるとのことでv2.0.0 alphaが推奨されていたため
+- v2.0.0 alphaとv2.0.1及び以降のFWに互換性を持たせるため
+
+## ピンアサイン
+
+| Pico  | RP2040-Zero | RP2040-Tiny |      Function      |
+| :---: | :---------: | :---------: | :----------------: |
+|   7   |      7      |      7      |   GameCube DATA    |
+|   0   |      0      |      0      |       Servo        |
+|   3   |      3      |      3      | Reset (Active Low) |
+
+## 対応している自動化ソフトウェアについて
+
+| :---: | NXMC | PokeCon | ORCA | DOL |
+| :---: | :---: | :---: | :---: | :---: |
+| Jiangtun-gcma2-v2.0.0-alpha-dol-pico.uf2 | O | X | O | O |
+| Jiangtun-gcma2-v2.0.0-alpha-pico.uf2 | O | O | O | X |
+
+
+----------
+
 # Jiangtun (江豚)
 
 GameCube automation alternative firmware for RP2040.
