@@ -18,7 +18,7 @@
 
 ## 対応している自動化ソフトウェアについて
 
-| :---: | NXMC | PokeCon | ORCA | DOL |
+|  | NXMC | PokeCon | ORCA | DOL |
 | :---: | :---: | :---: | :---: | :---: |
 | Jiangtun-gcma2-v2.0.0-alpha-dol-pico.uf2 | O | X | O | O |
 | Jiangtun-gcma2-v2.0.0-alpha-pico.uf2 | O | O | O | X |
